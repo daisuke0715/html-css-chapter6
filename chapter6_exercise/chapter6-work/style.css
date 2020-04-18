@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.background {
+    height: 800px;
+    width: 100%;
+}
+
+
+.background-contents1 {
+    background-image: url(../img/box1.jpg);
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+}
+
+.background-contents2 {
+    background-image: url(../img/box2.jpg);
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+}
+
+.background-contents3 {
+    background-image: url(../img/box3.jpg);
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+}
+
+.background-contents4 {
+    background-image: url(../img/box4.jpg);
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+}
